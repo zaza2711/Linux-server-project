@@ -10,7 +10,7 @@ understand Linux administration, networking fundamentals, and basic server secur
 - SSH
 - Apache Web Server
 - UFW Firewall
-- Bash/Shell scripting
+- Bash/Shell scripting;Cron jobs
 
 ## 🔧 What I Did
 - Installed Ubuntu Server on a virtual machine
